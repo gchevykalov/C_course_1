@@ -1,0 +1,1 @@
+Shift bits in bytes to the right cyclically.

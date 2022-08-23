@@ -1,0 +1,1 @@
+Approximation with varying degrees of accuracy of the movement of a body thrown at an angle to the horizon.

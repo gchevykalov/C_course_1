@@ -1,0 +1,1 @@
+Finding and joining pairs of words with the same end and beginning.
